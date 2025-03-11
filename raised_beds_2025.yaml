@@ -1,0 +1,26 @@
+#This file contains all of the boards that need to be created
+#I know this could be format [[length,mult], ...] but I felt that it was more user friendly with explicit dict names
+board1:
+    "length": 95.25 #The length of the piece
+    "mult": 16 #How many pieces of this length are needed
+board2:
+    "length": 16.5
+    "mult": 8
+board3:
+    "length": 76.5
+    "mult": 8
+board4:
+    "length": 84
+    "mult": 9
+board5:
+    "length": 40.5
+    "mult": 16
+board6:
+    "length": 46.5
+    "mult": 4
+board7:
+    "length": 50
+    "mult": 5
+board8:
+    "length": 40.5
+    "mult": 8
